@@ -20,7 +20,7 @@ Make sure you run `bundle install` to install the gems in our `Gemfile`. If your
 operating system is OSX El Capitan and you have an issue installing
 `EventMachine`, run the following command: `gem install eventmachine --
 --with-cppflags=-I/usr/local/opt/openssl/include`.
-
+ 
 ## Why Shotgun
 
 Normally when we develop simple Rack applications, like Sinatra applications, we
